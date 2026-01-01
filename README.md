@@ -1,8 +1,7 @@
 ## Hi, I'am Priyadharshini 
 
-BE ECE Fresher
+BE ECE Fresher |
 Aspiring Java Developer | Core Java | SQL | Git
-India
 
 ### Skills
 - Core Java
